@@ -4,7 +4,7 @@ Section: 03 — Customer Service
 Workflow step: Step 1 of 3 (Customer Pipeline)  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -112,7 +112,7 @@ Overall risk rating: MEDIUM–HIGH — requires oversight for critical cases
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Classify complaint  
 Output: Basic category only  
 Observed effect: Missing urgency and escalation logic  
@@ -121,7 +121,7 @@ Lesson learned: Need multi-factor classification
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced urgency and escalation fields  
 Output: Better classification but inconsistent reasoning  
 Observed effect: Weak justification of decisions  
@@ -130,7 +130,7 @@ Lesson learned: Must include reasoning field
 ---
 
 ### v1.2 — Final triage model (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added regulatory sensitivity + constraints  
 Output: Consistent, structured triage output  
 Observed effect: Reliable classification across cases  

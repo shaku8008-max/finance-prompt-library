@@ -4,7 +4,7 @@ Section: 01 — Compliance
 Workflow step: Step 1 of 7  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -108,7 +108,7 @@ Overall risk rating: MEDIUM — suitable with targeted human oversight
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Summarise the document  
 Output: Generic summary  
 Observed effect: Lacked compliance focus; inconsistent outputs  
@@ -117,7 +117,7 @@ Lesson learned: Need structured sections and role context
 ---
 
 ### v1.1 — Added structure and role
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced role + structured sections  
 Output: Improved clarity but inconsistent risk identification  
 Observed effect: Missing risk-related insights  
@@ -126,7 +126,7 @@ Lesson learned: Explicitly request risk identification
 ---
 
 ### v1.2 — Final structured version (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added constraints + risk focus + word limit  
 Output: Consistent and usable summaries  
 Observed effect: Reliable outputs across multiple test cases  

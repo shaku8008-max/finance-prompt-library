@@ -4,7 +4,7 @@ Section: 02 — Risk
 Workflow step: Step 4 of 7  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -114,7 +114,7 @@ Overall risk rating: HIGH — requires human validation for decision-making
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Identify risks from checklist  
 Output: Unstructured list  
 Observed effect: No severity; inconsistent categorisation  
@@ -123,7 +123,7 @@ Lesson learned: Need structured classification
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced risk type and severity  
 Output: Better organisation but inconsistent reasoning  
 Observed effect: Weak justification of risks  
@@ -132,7 +132,7 @@ Lesson learned: Must include reasoning field
 ---
 
 ### v1.2 — Final structured risk output (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added reasoning + constraints + limit  
 Output: Clear, structured, and consistent risks  
 Observed effect: Reliable identification across cases  

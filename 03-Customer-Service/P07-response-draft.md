@@ -4,7 +4,7 @@ Section: 03 — Customer Service
 Workflow step: Step 2 of 3 (Customer Pipeline)  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -109,7 +109,7 @@ Overall risk rating: MEDIUM–HIGH — requires review for sensitive interaction
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Write a response to the complaint  
 Output: Informal and inconsistent tone  
 Observed effect: Not suitable for professional use  
@@ -118,7 +118,7 @@ Lesson learned: Need tone and structure constraints
 ---
 
 ### v1.1 — Added structure and tone
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced professional tone and response sections  
 Output: Improved clarity but inconsistent legal framing  
 Observed effect: Occasional liability implications  
@@ -127,7 +127,7 @@ Lesson learned: Must restrict liability statements
 ---
 
 ### v1.2 — Final response model (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added constraints on liability + word limit  
 Output: Consistent, professional responses  
 Observed effect: Suitable for operational use  

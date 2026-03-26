@@ -4,7 +4,7 @@ Section: 04 — Reporting
 Workflow step: Step 6 of 7  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -118,7 +118,7 @@ Overall risk rating: HIGH — requires human validation before external use
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Generate compliance report  
 Output: Unstructured report  
 Observed effect: Inconsistent format; missing key sections  
@@ -127,7 +127,7 @@ Lesson learned: Need defined report structure
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced report sections  
 Output: Improved clarity but inconsistent compliance status  
 Observed effect: Weak classification of compliance  
@@ -136,7 +136,7 @@ Lesson learned: Must explicitly define compliance status
 ---
 
 ### v1.2 — Final report model (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added constraints + compliance status field  
 Output: Structured, professional report  
 Observed effect: Consistent outputs across cases  

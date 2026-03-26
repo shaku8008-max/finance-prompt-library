@@ -4,7 +4,7 @@ Section: 01 — Compliance
 Workflow step: Step 3 of 7  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -111,7 +111,7 @@ Overall risk rating: MEDIUM — effective with review for critical workflows
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Generate a checklist from policy rules  
 Output: Generic checklist  
 Observed effect: Items too vague; not actionable  
@@ -120,7 +120,7 @@ Lesson learned: Need verification criteria
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced requirement + verification format  
 Output: Improved clarity but inconsistent detail level  
 Observed effect: Some checklist items still broad  
@@ -129,7 +129,7 @@ Lesson learned: Must enforce specificity
 ---
 
 ### v1.2 — Final structured checklist (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added constraints on specificity and item limits  
 Output: Clear, actionable, audit-ready checklist  
 Observed effect: Consistent and usable outputs  

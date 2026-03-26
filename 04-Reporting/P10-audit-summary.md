@@ -4,7 +4,7 @@ Section: 04 — Reporting
 Workflow step: Step 7 of 7  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -111,7 +111,7 @@ Overall risk rating: HIGH — decision-support only, not autonomous
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Summarise report  
 Output: Basic summary  
 Observed effect: Lacked executive focus  
@@ -120,7 +120,7 @@ Lesson learned: Need structured sections
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced audit sections  
 Output: Improved clarity but lacked strategic insight  
 Observed effect: Weak recommendations  
@@ -129,7 +129,7 @@ Lesson learned: Must include strategic recommendations
 ---
 
 ### v1.2 — Final audit summary (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added strategic recommendations + constraints  
 Output: Clear, executive-ready summary  
 Observed effect: Suitable for management use  

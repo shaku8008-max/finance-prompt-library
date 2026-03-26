@@ -4,7 +4,7 @@ Section: 01 — Compliance
 Workflow step: Step 2 of 7  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -107,7 +107,7 @@ Overall risk rating: MEDIUM — suitable with review for critical policies
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Extract policy rules from the document  
 Output: Unstructured text  
 Observed effect: Inconsistent output; difficult to reuse  
@@ -116,7 +116,7 @@ Lesson learned: Need structured format
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced grouped bullet sections  
 Output: Improved clarity but inconsistent role extraction  
 Observed effect: Missing role assignments  
@@ -125,7 +125,7 @@ Lesson learned: Explicitly request role extraction
 ---
 
 ### v1.2 — Structured + constrained extraction (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added constraints and role requirement  
 Output: Consistent structured extraction  
 Observed effect: Reliable outputs across documents  

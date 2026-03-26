@@ -4,7 +4,7 @@ Section: 03 — Customer Service
 Workflow step: Step 3 of 3 (Customer Pipeline)  
 Current version: v1.2  
 Status: Tested  
-Last updated: [Date]
+Last updated: [26th March]
 
 ---
 
@@ -111,7 +111,7 @@ Overall risk rating: MEDIUM–HIGH — requires oversight for sensitive cases
 ## Version History
 
 ### v1.0 — Initial draft
-Date: [Date]  
+Date: [24th March]  
 Prompt: Summarise escalation  
 Output: Basic summary  
 Observed effect: Missing routing and action details  
@@ -120,7 +120,7 @@ Lesson learned: Need structured fields
 ---
 
 ### v1.1 — Added structure
-Date: [Date]  
+Date: [25th March]  
 Change: Introduced risk level and department  
 Output: Improved clarity but inconsistent action suggestions  
 Observed effect: Weak next-step guidance  
@@ -129,7 +129,7 @@ Lesson learned: Must include suggested action
 ---
 
 ### v1.2 — Final escalation summary (Current)
-Date: [Date]  
+Date: [26th March]  
 Change: Added action + constraints + word limit  
 Output: Clear, structured internal summary  
 Observed effect: Reliable routing outputs  
