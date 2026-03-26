@@ -121,6 +121,7 @@ Key risks:
 - Incorrect risk classification  
 - Hallucinated outputs  
 - Over-reliance on automation  
+- This system is designed as decision-support, with human validation required for high-risk or regulatory-critical outputs.
 
 Mitigation:
 - Human-in-the-loop validation  
