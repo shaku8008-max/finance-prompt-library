@@ -1,7 +1,7 @@
 # Prompt Library — Banking Compliance & Operations
 
 Assessment 1 | Generative AI for Business  
-Student: [Your Name]  
+Student: Mohammad Abrar Hamim Khan 
 Business Field: Finance — Banking (Australia)  
 Model tested on: GPT-5.3  
 Last updated: [26th March]
