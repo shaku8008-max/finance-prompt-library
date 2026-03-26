@@ -23,6 +23,7 @@ Constraints:
 - Use ONLY the provided document
 - Do NOT infer or add external knowledge
 - Keep wording concise and precise
+- - If information is unclear or missing, explicitly state "Insufficient information"
 
 Document:
 [DOCUMENT_TEXT]

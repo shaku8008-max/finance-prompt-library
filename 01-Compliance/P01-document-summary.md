@@ -23,7 +23,8 @@ Constraints:
 - Use ONLY the provided document  
 - Do NOT include external knowledge or assumptions  
 - Max 200 words  
-- Professional tone  
+- Professional tone
+- If information is unclear or missing, explicitly state "Insufficient information"
 
 Document:
 [DOCUMENT_TEXT]

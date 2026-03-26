@@ -24,7 +24,8 @@ Constraints:
 - Use ONLY the provided checklist  
 - Do NOT introduce external assumptions  
 - Flag uncertainty where information is insufficient  
-- Be concise and precise  
+- Be concise and precise 
+- If information is unclear or missing, explicitly state "Insufficient information"
 
 Input:
 [COMPLIANCE_CHECKLIST]

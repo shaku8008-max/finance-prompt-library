@@ -25,6 +25,7 @@ Constraints:
 - Do NOT introduce external knowledge  
 - Maintain professional, formal tone  
 - Max 300 words  
+- If information is unclear or missing, explicitly state "Insufficient information"
 
 Input:
 [DOCUMENT_SUMMARY]  
